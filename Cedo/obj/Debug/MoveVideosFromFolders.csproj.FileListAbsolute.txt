@@ -1,0 +1,13 @@
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\bin\Debug\MoveVideosFromFolders.exe.config
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\bin\Debug\MoveVideosFromFolders.exe
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\bin\Debug\MoveVideosFromFolders.pdb
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.csprojResolveAssemblyReference.cache
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.Form1.resources
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.Properties.Resources.resources
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.csproj.GenerateResource.Cache
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.exe
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.pdb
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\bin\Debug\MoveVideosFromFolders.exe.manifest
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\bin\Debug\MoveVideosFromFolders.application
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.exe.manifest
+C:\Users\Home\Downloads\C#\MoveVideosFromFolders\MoveVideosFromFolders\MoveVideosFromFolders\obj\Debug\MoveVideosFromFolders.application
