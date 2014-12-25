@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
-using Cedo.Properties;
+using Amplio.Properties;
 
-namespace Cedo
+namespace Amplio
 {
     class ReadOnly
     //This class change the Read Only/Archive (RA) flag in the files to Archive (A) flag only in order to allow file deletion from XBMC 

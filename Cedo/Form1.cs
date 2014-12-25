@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-using Cedo.Properties;
+using Amplio.Properties;
 using NUnrar;
 using System.Diagnostics;
 
-namespace Cedo
+namespace Amplio
 {
     internal partial class Form1 : Form
     {

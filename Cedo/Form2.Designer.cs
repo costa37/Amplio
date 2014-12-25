@@ -1,4 +1,4 @@
-﻿namespace Cedo
+﻿namespace Amplio
 {
     partial class Form2
     {

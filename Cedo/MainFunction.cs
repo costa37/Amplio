@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-using Cedo.Properties;
+using Amplio.Properties;
 using NUnrar.Archive;
 using System.Diagnostics;
 
-namespace Cedo
+namespace Amplio
 {
     internal class MainFunction
     {
@@ -161,7 +161,7 @@ namespace Cedo
                     MessageBox.Show("Warning! \n" + "Following folders did not contain videos: \n" + builder.ToString(), "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else
-                    MessageBox.Show("The operationd was finished successfully!", "Cedo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("The operationd was finished successfully!", "Amplio", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 //End
 

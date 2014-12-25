@@ -41,3 +41,6 @@ C:\Users\Home\Dropbox\C# Work\Cedo\Cedo\Cedo\obj\Debug\Cedo.csproj.GenerateResou
 C:\Users\Home\Dropbox\C# Work\Cedo\Cedo\Cedo\obj\Debug\Cedo.exe.manifest
 C:\Users\Home\Dropbox\C# Work\Cedo\Cedo\Cedo\obj\Debug\Cedo.application
 C:\Users\Home\Dropbox\C# Work\Cedo\Cedo\Cedo\obj\Debug\Cedo.Form2.resources
+H:\Git\Amplio\Cedo\bin\Debug\Cedo.exe.config
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.exe
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.pdb

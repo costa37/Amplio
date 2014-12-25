@@ -1,5 +1,5 @@
 ﻿
-namespace Cedo.Properties {
+namespace Amplio.Properties {
     
     
     // This class allows you to handle specific events on the settings class:

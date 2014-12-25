@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Cedo")]
+[assembly: AssemblyTitle("Amplio")]
 [assembly: AssemblyDescription("Moves large files from folder to parent folder")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Cedo")]
-[assembly: AssemblyProduct("Cedo")]
+[assembly: AssemblyCompany("Amplio")]
+[assembly: AssemblyProduct("Amplio")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
