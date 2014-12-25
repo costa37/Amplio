@@ -1,0 +1,14 @@
+H:\Git\Amplio\Cedo\obj\Debug\Amplio.csprojResolveAssemblyReference.cache
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.Properties.Resources.resources
+H:\Git\Amplio\Cedo\obj\Debug\Amplio.csproj.GenerateResource.Cache
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.exe
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.pdb
+H:\Git\Amplio\Cedo\bin\Debug\Cedo.exe.config
+H:\Git\Amplio\Cedo\obj\Debug\Amplio.Form1.resources
+H:\Git\Amplio\Cedo\obj\Debug\Amplio.Form2.resources
+H:\Git\Amplio\Cedo\bin\Debug\Cedo.exe.manifest
+H:\Git\Amplio\Cedo\bin\Debug\Cedo.application
+H:\Git\Amplio\Cedo\bin\Debug\Cedo.exe
+H:\Git\Amplio\Cedo\bin\Debug\Cedo.pdb
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.exe.manifest
+H:\Git\Amplio\Cedo\obj\Debug\Cedo.application

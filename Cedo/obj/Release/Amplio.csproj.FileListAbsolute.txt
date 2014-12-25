@@ -1,0 +1,5 @@
+H:\Git\Amplio\Cedo\bin\Release\Cedo.exe.config
+H:\Git\Amplio\Cedo\obj\Release\Amplio.Form1.resources
+H:\Git\Amplio\Cedo\obj\Release\Amplio.Form2.resources
+H:\Git\Amplio\Cedo\obj\Release\Cedo.Properties.Resources.resources
+H:\Git\Amplio\Cedo\obj\Release\Amplio.csproj.GenerateResource.Cache
